@@ -15,4 +15,4 @@ git clone https://github.com/anurajennai/HackerNewsSummary.git
 python hnsummary.py
 ```
 
-Excel file gets created in format hnsummary_<date>_<time>.xlsx
+Excel file gets created in format hnsummary_date_time.xlsx
